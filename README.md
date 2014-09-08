@@ -1,7 +1,5 @@
-livecms
-=======
-
 Live CMS open source
+=======
 
 General features:
 
